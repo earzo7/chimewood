@@ -1,0 +1,22 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "cube_all"
+    },
+    "variants": {
+       "normal": [
+                { "textures": { "all": "chimewood:blocks/thunderstone/thunderstone0" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone/thunderstone0" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone/thunderstone0" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone/thunderstone1" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone/thunderstone2" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone/thunderstone3" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone/thunderstone4" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone/thunderstone5" } }
+        ],
+        "inventory": [{
+            "transform": "forge:default-block",
+            "textures": { "all": "chimewood:blocks/thunderstone/thunderstone0" }
+        }]
+    }
+}

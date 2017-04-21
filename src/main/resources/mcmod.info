@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chimewood",
+  "name": "Chimewood",
+  "description": "Magical trees and other strange materials!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "eldrikinetics.tumblr.com",
+  "updateUrl": "",
+  "authorList": ["Pachycephalosauria"],
+  "credits": "Pachycephalosauria, and the Modoff team for making this event happen!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,15 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all":
+            [
+                { "textures": { "all": "chimewood:blocks/thunderstone0" } }, [
+                { "textures": { "all": "chimewood:blocks/thunderstone1" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone2" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone3" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone4" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone5" } },
+                { "textures": { "all": "chimewood:blocks/thunderstone6" } }
+           ] ]
+        }
+    }

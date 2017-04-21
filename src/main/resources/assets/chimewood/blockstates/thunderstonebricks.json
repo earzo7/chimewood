@@ -1,0 +1,22 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "cube_all"
+    },
+    "variants": {
+       "normal": [
+                { "textures": { "all": "chimewood:blocks/keytile/keytile0" } },
+                { "textures": { "all": "chimewood:blocks/keytile/keytile1" } },
+                { "textures": { "all": "chimewood:blocks/keytile/keytile2" } },
+                { "textures": { "all": "chimewood:blocks/keytile/keytile3" } },
+                { "textures": { "all": "chimewood:blocks/keytile/keytile4" } },
+                { "textures": { "all": "chimewood:blocks/keytile/keytile5" } },
+                { "textures": { "all": "chimewood:blocks/keytile/keytile6" } },
+                { "textures": { "all": "chimewood:blocks/keytile/keytile7" } }
+        ],
+        "inventory": [{
+            "transform": "forge:default-block",
+            "textures": { "all": "chimewood:blocks/thunderstone/thunderstone0" }
+        }]
+    }
+}

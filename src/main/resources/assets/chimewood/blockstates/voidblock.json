@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "chimewood:voidblockmodel" },
+        "powered=true": { "model": "chimewood:voidblockmodel" }
+    }
+}

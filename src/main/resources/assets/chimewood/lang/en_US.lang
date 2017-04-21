@@ -1,0 +1,12 @@
+tile.chimewoodlog.name=Chimewood
+tile.chimewoodleaves.name=Chimewood Leaves
+tile.chimewoodsapling.name=Chimewood Sapling
+
+
+item.chimewoodpick.name=Chimewood Pickaxe
+item.chimewoodspade.name=Chimewood Shovel
+item.chimewoodaxe.name=Chimewood Axe
+item.chimewoodsword.name=Chimewood Sword
+item.chimewoodstick.name=Chimewood Wand
+
+enchantments.chopper.name=Chopping
